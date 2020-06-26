@@ -1,0 +1,39 @@
+
+body{
+    width: 90%;
+    max-width: 960px;
+    margin: auto;
+    background-color: orange;
+}
+
+header nav {
+    display: block;
+    width: 95%;
+    text-align: right;
+    padding-left: 1em;
+    padding-right: 1em;
+}
+
+h1{
+    font-style: italic;
+}
+
+section {
+    min-height: 400px;
+    background-color: aqua;
+    padding: 1em;
+}
+
+input [type=text] [type=password]{
+    background-color: lime;
+}
+
+
+
+
+
+
+
+
+
+
